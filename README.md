@@ -6,5 +6,5 @@ Programador front-end.
 
 Catálogo de mis trabajos.
 
-[Raton_click](https://github.com/alvarezrod/JuegoGato_click)
-[E-Commerce Music Store](https://github.com/alvarezrod/E-Commerce)
+- [Raton_click](https://github.com/alvarezrod/JuegoGato_click)
+- [E-Commerce Music Store](https://github.com/alvarezrod/E-Commerce)
